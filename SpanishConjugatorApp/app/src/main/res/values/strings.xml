@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Spanish Conjugator (App)</string>
+    <string-array name="form">
+        <item>Yo</item>
+        <item>Tú</item>
+        <item>El</item>
+        <item>Nosotros</item>
+        <item>Ellos</item>
+    </string-array>
+
+</resources>
